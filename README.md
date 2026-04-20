@@ -135,21 +135,37 @@ SOURCE_PROJECT_ROOT = DRIVE_ROOT / 'Multiple_object_detection'
 📝  report/generatedreport.md    → Full auto-generated report
 ```
 
-***
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
+### 📊 Repository Language Breakdown
 
-
-
-
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-95.4%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4.6%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-***
+### 🔬 Core Libraries & Frameworks
+
+<div align="center">
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00BFFF?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### ☁️ Platform & Tools
+
+<div align="center">
+
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
 
 ## ⚠️ Notes
 

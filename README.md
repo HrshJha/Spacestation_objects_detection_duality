@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiple Object Detection using YOLOv8 and Synthetic Data
 
 This repository trains and evaluates a YOLOv8 object detection model using synthetic data and validates it on real-world images. The primary execution path is the Colab notebook `syntheticDataWorks_multiclass.ipynb`.
@@ -100,3 +101,6 @@ If the source folder path changes, update that line before running.
 - The notebook assumes the shared folder is accessible from the signed-in Google account.
 - If the path is wrong, update `SOURCE_PROJECT_ROOT` in the notebook.
 - The notebook no longer depends on a GitHub clone and uses local Drive storage instead.
+=======
+# Spacestation_objects_detection_duality
+>>>>>>> c5d95b702e299344935c7b5df130dd307140790a
